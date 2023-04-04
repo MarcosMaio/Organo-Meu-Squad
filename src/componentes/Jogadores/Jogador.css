@@ -1,0 +1,68 @@
+.Jogador {
+    width: 250px;
+    position: relative;
+}
+
+.Jogador .cabecalho {
+    border-radius: 10px 10px 0px 0px;
+}
+.icone__jogador {
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -50px;
+}
+
+.Jogador .rodape  {
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    padding-top: 40px;
+    padding-bottom: 1px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.Jogador .rodape h4 {
+    
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    padding-top: 8px;
+}
+
+.Jogador .rodape  h5 {
+    font-size: 18px;
+    line-height: 50px;
+    color: #212121;
+    padding: 0px 8px 20px 8px;
+}
+
+#personagem {
+    border-radius: 0px 0px 10px 10px;
+}
+
+.Card__Avatar {
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    padding-top: 40px;
+    padding-bottom: 1px;
+}
+
+#card {
+    margin-top: 50px;
+    border-radius: 10px 10px 0px 0px;
+    height: 50px ;
+}
+
+.imagem__avatar {
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -1px;
+}
+
+.deletar {
+    position: absolute;
+    right: -10;
+    top: -10;
+}

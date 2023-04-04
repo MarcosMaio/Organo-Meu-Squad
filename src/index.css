@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1 {
+  display: inline-block;
+  margin-left: 665px;
+  text-align: center;
+  align-items: center;
+  font-family: 'Prata';
+  color: #6278F7;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 72px;
+  padding-top: 20px;
+  
+  
+}
+
+.times {
+  display: flex;
+  position: relative;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.logo_botao {
+  margin: 3em 0 0 28em;
+  height: 100px;
+  width: 100px;
+  border-radius: 0px;
+  
+
+}
+
+.retangulo {
+  position: absolute;
+  left: 725px;
+  bottom: 30px;
+}
+
