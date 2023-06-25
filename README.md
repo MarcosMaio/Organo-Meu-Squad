@@ -1,4 +1,4 @@
-# Organo Meu Squad (Projeto de site ainda não finalizado!) <br>
+# Organo Meu Squad <br>
 link do servidor que o site está hospedado via vercel: https://organo-meu-squad.vercel.app/
 
 Organo Meu Squad é um site que permite aos usuários criar e gerenciar seus times de jogos de vídeo game, também conhecidos como "squads". Os usuários podem adicionar diversos jogadores, incluindo amigos, e fornecer informações como nomes, posições no jogo, nome do personagem principal e o nome do personagem utilizado por cada jogador. O site utiliza um formulário dinâmico para capturar esses dados e criar cards com as informações fornecidas, que são renderizados na seção de time escolhida pelo usuário. Cada seção de time possui artes e designs específicos do jogo escolhido, proporcionando uma experiência personalizada para cada squad.
